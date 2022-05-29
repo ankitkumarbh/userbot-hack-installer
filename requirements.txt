@@ -1,0 +1,13 @@
+gitpython
+Pillow
+PyGithub
+aiofiles
+aiohttp
+heroku3
+pySmartDL
+psutil
+pylast
+requests
+sqlalchemy==1.3.23
+telethon
+wheel
